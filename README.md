@@ -6,7 +6,7 @@ Web application with an interactive map containing gas stations
 
 ### Java 17
 
-### Spring boot 2.6.4
+### Spring boot 2.6.6
 
 #### Dependencies:
 
